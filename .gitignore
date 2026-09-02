@@ -1,0 +1,5 @@
+*.log
+.DS_Store
+auth.json
+*.sock
+*.pid
