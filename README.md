@@ -17,6 +17,10 @@
 
 </div>
 
+> [!NOTE]
+> 🌐 **Этот проект является частью экосистемы [Enigman Termux Lab](https://github.com/Enigman-Termux-lab)** — открытой лаборатории автономных AI-агентов и системных инструментов для Android Termux.  
+> 📌 **Главный хаб и полный каталог инструментов:** [github.com/Enigman-Termux-lab](https://github.com/Enigman-Termux-lab)
+
 ## 🌟 Как это работает?
 
 1. **В Termux** запускается легковесный `app-server-daemon`, создающий защищенный Unix-сокет.
